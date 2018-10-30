@@ -1,0 +1,9 @@
+{
+  "name": "learning-fullstack-JS",
+  "version": "1.0.0",
+  "description": "Learning Fullstack Javascript Development using MongoDB, Node.js, React.js and Express",
+  "main": "index.js",
+  "repository": "https://github.com/Mohafizz/learning-fullstack-JS.git",
+  "author": "mohafizz <mohafizz@gmail.com>",
+  "license": "MIT"
+}
